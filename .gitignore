@@ -1,0 +1,10 @@
+example_figures
+spectrogram_imgs
+test_eegs
+train_eegs
+train_spectrograms
+test_spectrograms 
+sample_submission.csv
+eeg_imgs
+train.csv
+test.csv
