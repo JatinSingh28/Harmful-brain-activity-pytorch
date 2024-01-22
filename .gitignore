@@ -9,3 +9,4 @@ eeg_imgs
 train.csv
 test.csv
 models
+wandb
