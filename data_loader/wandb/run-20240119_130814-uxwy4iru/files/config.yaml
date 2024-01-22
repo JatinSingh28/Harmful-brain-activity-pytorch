@@ -1,0 +1,46 @@
+wandb_version: 1
+
+lr:
+  desc: null
+  value: 0.001
+loss:
+  desc: null
+  value: KLDivloss
+_wandb:
+  desc: null
+  value:
+    python_version: 3.9.2
+    cli_version: 0.16.2
+    framework: huggingface
+    huggingface_version: 4.35.2
+    is_jupyter_run: true
+    is_kaggle_kernel: true
+    start_time: 1705669706.562785
+    t:
+      1:
+      - 1
+      - 11
+      - 41
+      - 49
+      - 55
+      - 105
+      2:
+      - 1
+      - 11
+      - 41
+      - 49
+      - 55
+      - 105
+      3:
+      - 1
+      - 2
+      - 16
+      - 23
+      4: 3.9.2
+      5: 0.16.2
+      6: 4.35.2
+      8:
+      - 1
+      - 2
+      - 5
+      13: linux-x86_64

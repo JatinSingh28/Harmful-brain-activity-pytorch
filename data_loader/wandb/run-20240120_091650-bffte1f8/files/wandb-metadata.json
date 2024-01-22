@@ -1,0 +1,119 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.2",
+    "heartbeatAt": "2024-01-20T09:16:53.901960",
+    "startedAt": "2024-01-20T09:16:50.105604",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/JatinSingh28/Harmful-brain-activity.git",
+        "commit": "e4f544baa8f5570f81b03c466a365d41bffc9916"
+    },
+    "email": "sagoisinghjatin9951@gmail.com",
+    "root": "/com.docker.devenvironments.code/kaggle-harmful-brain-activity",
+    "host": "d5058d6e3017",
+    "username": "root",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3187.212,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3187.212,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 58.68832015991211
+        }
+    },
+    "memory": {
+        "total": 7.597969055175781
+    }
+}

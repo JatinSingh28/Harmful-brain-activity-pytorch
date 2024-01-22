@@ -1,0 +1,7 @@
+
+  0%|          | 0/2670 [00:02<?, ?it/s]
+wandb: Network error (SSLError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:14.798981, resuming normal operation.
+
+  0%|          | 0/2670 [00:07<?, ?it/s]
+('LRDA', 'Other', 'LPD', 'GPD', 'Seizure', 'Seizure', 'LRDA', 'Other', 'LPD', 'LPD', 'GPD', 'Other', 'GPD', 'LRDA', 'LPD', 'Seizure', 'LRDA', 'LRDA', 'Seizure', 'GPD', 'LPD', 'Seizure', 'GRDA', 'Seizure', 'LPD', 'LRDA', 'Seizure', 'Other', 'Other', 'LPD', 'LRDA', 'GPD')
